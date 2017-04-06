@@ -24,8 +24,6 @@ You can install ipynb with:
 pip install ipynb
 ```
 
-
-
 ## Importing a notebook ##
 
 ### Full import ###
