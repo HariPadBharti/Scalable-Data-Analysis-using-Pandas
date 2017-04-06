@@ -11,7 +11,7 @@ Codes in `Ipython Notebook` ('ipynb') file format.
 <B>Conclusion: </B> "Environmental exploitation is not a right way to grow Economy". 
 
 
-### About Ipython Notebook 
+### About [IPYTHON NOTEBOOK] 
 
 
 # ipynb
