@@ -9,3 +9,17 @@ Codes in `Ipython Notebook` ('ipynb) format.
 Datasets Used extracted from World Bank official public datasets : <a href="http://data.worldbank.org/topic/environment#tp_prop"> Click here </a>
 
 Overall, Conclusion of the Project is "Environmental exploitation is not a right way to grow Economy". 
+
+# ipynb
+
+[![Build Status](https://travis-ci.org/yuvipanda/ipynb.svg?branch=master)](https://travis-ci.org/yuvipanda/ipynb)
+
+A python package providing an easy way to explicitly import [Jupyter Notebooks](https://github.com/jupyter/notebook) files (`.ipynb`) the same way you would import regular `.py` files.
+
+## Installation ##
+
+You can install ipynb with:
+
+```bash
+pip install ipynb
+```
