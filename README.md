@@ -12,7 +12,7 @@ Codes in `Ipython Notebook` ('ipynb') file format.
 
 
 ### About [IPYTHON NOTEBOOK] 
-<img src = "http://elektromagnetisme.no/wp-content/uploads/2013/08/nb-1000x288.png">
+<img src = "https://github.com/HariPadBharti/Scalable-Data-Analysis-using-Pandas/blob/master/images/ipynblogo.png">
 
 # ipynb
 
