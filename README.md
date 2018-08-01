@@ -29,23 +29,6 @@ You can install ipynb with:
 pip install ipynb
 ```
 
-## Importing a notebook ##
-
-### Full import ###
-
-You can do a 'full' import - this has the same semantics of importing a .py file. All the code in the .ipynb file is executed, and classes/functions/variables in the top level are available for use.
-
-If you have a notebook file named `server.ipynb`, you can import it via:
-
-```python
-import ipynb.fs.full.server
-```
-
-You can use the `from ... import ..` too.
-
-```python
-from ipynb.fs.full.server import X, Y, X
-```
 
 
 -------------------------------------------------------------------------------------------------------------------------
